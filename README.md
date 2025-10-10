@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I’m Epikur 🙋‍♂️️
 
-<!--
-**epikur-io/epikur-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full stack developer specialized in backend developement, APIs and micro services.
 
-Here are some ideas to get you started:
+#### Top languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Go (Golang)         ▓▓▓▓▓▓▓▓▓░ 95%
+Lua                 ▓▓▓▓▓▓▓▓░░ 80%
+JavaScript          ▓▓▓▓▓▓▓░░░ 70%
+TypeScript          ▓▓▓▓▓▓▓░░░ 70%
+Python              ▓▓▓▓▓▓░░░░ 65%
+Nim                 ▓▓▓▓▓░░░░░ 50%
+C                   ▓▓▓▓░░░░░░ 40%
+C++                 ▓▓▓░░░░░░░ 30%
+```

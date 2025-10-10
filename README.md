@@ -1,6 +1,6 @@
 ### Hi, I’m Epikur 🙋‍♂️️
 
-> Full-stack developer specialized in backend development, APIs, and microservices. Programming is my job and passion.
+> Full-stack developer and problem solver specializing in backend development, APIs, and microservices. Programming is my job and passion.
 > I'm a Linux and open-source enthusiast, and I like to tinker around using Arduinos and Raspberry Pis.
 
 #### Top languages

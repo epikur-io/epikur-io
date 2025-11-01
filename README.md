@@ -4,7 +4,7 @@
 > I'm a Linux and open-source enthusiast, and I like to tinker around using Arduinos and Raspberry Pis.
 
 <p align="center">
-    <img height="96" src="https://raw.githubusercontent.com/epikur-io/epikur-io/main/assets/gopher_with_coffee.gif">
+    <img height="96" src="./assets/gopher_with_coffee.gif">
 </p>
 
 #### Top languages

@@ -4,8 +4,9 @@
 >As a Linux and open-source enthusiast, I love exploring new technologies and tinkering with Arduinos and Raspberry Pis in my free time. Always curious, I enjoy turning ideas into practical solutions.
 
 <p align="center">
-    <img height="96" src="./assets/gopher_with_coffee.gif">
+    <img height="96" src="./assets/tux_typing.gif">
 </p>
+
 
 #### Top languages
 
@@ -22,4 +23,3 @@ C          ████████░░░░░░░░░░░░ 40%
 C#         ██████░░░░░░░░░░░░░░ 30%
 C++        ██████░░░░░░░░░░░░░░ 30%
 ```
-
